@@ -14,6 +14,7 @@ The following technologies were used in the project:
 
 - [NestJs](https://docs.nestjs.com/)
 - [Swagger](https://swagger.io)
+- [Multer](https://docs.nestjs.com/techniques/file-upload)
 - [Postgres](https://www.postgresql.org/)
 - [PrismaORM](https://www.prisma.io/)
 
